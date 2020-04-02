@@ -2,7 +2,7 @@
 
 Test your typing speed in terminal.
 
-<img src="tiab.gif">
+<img src="tiab_1.gif">
 
 ## Install
 
