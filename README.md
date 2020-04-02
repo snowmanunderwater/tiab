@@ -2,6 +2,8 @@
 
 Test your typing speed in terminal.
 
+<img src="tiab_1.gif">
+
 ## Install
 
 **ALARM: WAS TESTED ONLY ON LINUX AND PYTHON 3.8**
